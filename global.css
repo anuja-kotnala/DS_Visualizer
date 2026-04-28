@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(135deg,#667eea,#764ba2);
+    font-family:Arial, Helvetica, sans-serif ;
+    color:white;
+    /* background: linear-gradient(135deg, #ff7e5f, #feb47b); */
+    text-align: center;
+}
+.btn{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    background-color:rgb(109, 105, 240);
+    color: antiquewhite;
+    
+}
