@@ -1,0 +1,14 @@
+.op{
+    background-color: rgb(250, 167, 181);
+    color: aliceblue;
+    border-radius: 15px;
+    width: 200px;
+    height: 60px;
+}
+
+#userControls{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
