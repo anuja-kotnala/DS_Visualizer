@@ -4,3 +4,10 @@ btn.addEventListener("click",function(){
 });
 
 
+const stackEle= document.getElementById("stack");
+const pushBtn= document.getElementById("push");
+const popBtn= document.getElementById("pop");
+const topBtn= document.getElementById("top");
+const resetBtn= document.getElementById("re");
+
+let stack=[];
